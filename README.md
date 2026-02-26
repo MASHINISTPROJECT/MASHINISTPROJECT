@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b7611jwdthjhrq3xrq8eoud6ppk6tgw3oc3qo8uqd27dx&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="500" height="500"/>
   
 <div id="badges">
-  <a href="https://www.youtube.com/@MASHINIST8888">
+  <a href="https://www.youtube.com/@MASHINIST_8888">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://t.me/MASHINISTYT8888">
