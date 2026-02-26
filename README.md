@@ -1,25 +1,20 @@
-<!-- Этот файл создан на основе статьи: https://proglib.io/p/kak-kreativno-oformit-profil-na-github-chtoby-on-privlekal-vnimanie-2022-03-17 -->
-
 <div align="center">
-  <!-- Здесь будет ваша GIF-анимация -->
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b7611jwdthjhrq3xrq8eoud6ppk6tgw3oc3qo8uqd27dx&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="500" height="500"/>
   
 <div id="badges">
-  <!-- Значки социальных сетей с ссылками. Замените href на свои URL -->
-  <a href="https://www.youtube.com/c/your-youtube-channel">
+  <a href="https://www.youtube.com/c/@MASHINIST8888">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://t.me/your-telegram-nickname">
+  <a href="https://t.me/MASHINISTYT8888">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="https://your-website.com">
+  <a href="https://mashinist.site">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website Badge"/>
   </a>
 </div>
 
 </div>
 
-<!-- Приветствие и информация о себе -->
 <div align="center">
   <h1>
     Привет!
@@ -37,7 +32,6 @@
 ### :hammer_and_wrench: Языки и инструменты :
 
 <div align="center">
-  <!-- Значки технологий. Замените на свои -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" title="NuxtJS" alt="NuxtJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
