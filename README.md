@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://images.steamusercontent.com/ugc/2134202888453640553/8C1C84BA467BFC471DDDD754C10253624231EBA6/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="500" height="500"/>
+  <img src="https://images.steamusercontent.com/ugc/2134202888453651676/D9C97C91CDBA7CD8A92B448CDFC14489ED6664B8/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="500" height="500"/>
   
 <div id="badges">
   <a href="https://www.youtube.com/@MASHINIST_8888">
