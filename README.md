@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b7611jwdthjhrq3xrq8eoud6ppk6tgw3oc3qo8uqd27dx&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="500" height="500"/>
+  <img src="[https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b7611jwdthjhrq3xrq8eoud6ppk6tgw3oc3qo8uqd27dx&ep=v1_gifs_search&rid=giphy.gif&ct=g](https://images.steamusercontent.com/ugc/2134202888453640553/8C1C84BA467BFC471DDDD754C10253624231EBA6/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true)" width="500" height="500"/>
   
 <div id="badges">
   <a href="https://www.youtube.com/@MASHINIST_8888">
